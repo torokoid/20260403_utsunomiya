@@ -215,7 +215,7 @@ p.note { display: none; }
 <h2><span class="yellow">月明かりがありましたが、星空も綺麗、冬の星座を簡単にトレース</span></h2>
 <a href="20260403_025.JPG" target="_blank"><img src="20260403_025.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">星座アプリの画像も載せますね</span></h2>
+<h2><span class="yellow">星座アプリの画像で、見えているのはこの星座達</span></h2>
 <a href="20260403_026.JPG" target="_blank"><img src="20260403_026.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ドリームかわちプールの上にお月様が昇りました</span></h2>
